@@ -1,12 +1,26 @@
 using Microsoft.EntityFrameworkCore;
 using SoftwareQuizAPI.Data;
+using Azure.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
+
 
 // Add services to the container.
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowSpecificOrigins",
+        builder =>
+        {
+            builder.WithOrigins("http://localhost:5173") // React uygulamanýzýn çalýþtýðý URL
+                   .AllowAnyHeader()
+                   .AllowAnyMethod();
+        });
+});
 
 
 builder.Services.AddDbContext<AppDbContext>(opt =>
@@ -25,6 +39,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors("AllowSpecificOrigins");
 
 app.UseAuthorization();
 

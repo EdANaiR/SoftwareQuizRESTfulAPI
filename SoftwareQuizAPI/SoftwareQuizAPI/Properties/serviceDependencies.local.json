@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "apis1": {
+      "ignored": "True",
+      "type": "apis"
+    },
+    "mssql1": {
+      "serviceConnectorResourceId": "",
+      "secretStore": "LocalSecretsFile",
+      "resourceId": null,
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:DefaultConnection"
+    }
+  }
+}

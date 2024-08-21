@@ -47,5 +47,73 @@ namespace SoftwareQuizAPI.Controllers
 
             return CreatedAtAction(nameof(GetQuestion), new { id = question.Id }, question);
         }
+
+
+        [HttpGet("category/{category}")]
+        public async Task<ActionResult<IEnumerable<Question>>> GetQuestionsByCategory(string category)
+        {
+            var questions = await _context.Questions
+                .Where(q => q.Category == category)
+                .ToListAsync();
+
+            if (questions == null || !questions.Any())
+            {
+                return NotFound();
+            }
+
+            return questions;
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> PutQuestion(int id, Question question)
+        {
+            if (id != question.Id)
+            {
+                return BadRequest();
+            }
+
+            _context.Entry(question).State = EntityState.Modified;
+
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                if (!QuestionExists(id))
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
+            }
+
+            return NoContent();
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteQuestion(int id)
+        {
+            var question = await _context.Questions.FindAsync(id);
+            if (question == null)
+            {
+                return NotFound();
+            }
+
+            _context.Questions.Remove(question);
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
+
+
+        private bool QuestionExists(int id)
+        {
+            return _context.Questions.Any(e => e.Id == id);
+        }
+
+
     }
 }

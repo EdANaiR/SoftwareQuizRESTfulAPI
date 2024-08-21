@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2024-08-21T11:40:23.6750795Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-08-21T12:14:43.0034075Z"
+    }
+  },
+  "parameters": {
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "SoftwareQuizAPI20240821123008ResourceGroup"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "3c44de65-af76-4b79-b396-79f2119e949f"
+    }
+  }
+}

@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\pc\OneDrive\Masaüstü\SoftwareQuizAPI\SoftwareQuizAPI\SoftwareQuizAPI\Properties\PublishProfiles\SoftwareQuizAPI20240821154421 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

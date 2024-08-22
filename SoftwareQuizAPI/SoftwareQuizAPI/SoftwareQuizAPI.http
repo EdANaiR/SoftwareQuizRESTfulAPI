@@ -1,6 +1,6 @@
 @SoftwareQuizAPI_HostAddress = http://localhost:5230
 
-GET {{SoftwareQuizAPI_HostAddress}}/weatherforecast/
+GET {{SoftwareQuizAPI_HostAddress}}/quiz/
 Accept: application/json
 
 ###

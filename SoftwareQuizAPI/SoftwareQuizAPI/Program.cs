@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using SoftwareQuizAPI.Data;
-using Azure.Identity;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,17 +14,17 @@ builder.Services.AddControllers();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigins",
-        builder =>
+        policy =>
         {
-            builder.WithOrigins("http://localhost:5173") // React uygulamanýzýn çalýþtýðý URL
-                   .AllowAnyHeader()
-                   .AllowAnyMethod();
+            policy.WithOrigins("http://localhost:5173") // React uygulamanýzýn çalýþtýðý URL
+                  .AllowAnyHeader()
+                  .AllowAnyMethod();
         });
 });
 
-
 builder.Services.AddDbContext<AppDbContext>(opt =>
-    opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));     //Dependency Injection
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"),
+    sqlServerOptions => sqlServerOptions.EnableRetryOnFailure()));     //Dependency Injection
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

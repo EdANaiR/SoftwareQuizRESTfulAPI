@@ -5,7 +5,7 @@ using SoftwareQuizAPI.Models;
 
 namespace SoftwareQuizAPI.Controllers
 {
-    [Route("api/QuizController")]
+    [Route("api/quiz")]
     [ApiController]
     public class QuizController : ControllerBase
     {

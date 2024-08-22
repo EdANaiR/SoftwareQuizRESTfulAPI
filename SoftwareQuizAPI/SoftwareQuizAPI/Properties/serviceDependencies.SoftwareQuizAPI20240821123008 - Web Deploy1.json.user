@@ -3,10 +3,6 @@
     "apis1": {
       "restored": true,
       "restoreTime": "2024-08-21T11:40:23.6750795Z"
-    },
-    "mssql1": {
-      "restored": true,
-      "restoreTime": "2024-08-21T12:14:43.0034075Z"
     }
   },
   "parameters": {

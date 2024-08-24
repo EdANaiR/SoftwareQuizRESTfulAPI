@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\softwarequizapi\\softwarequizapi\\softwarequizapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|solutionrelative:softwarequizapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\softwarequizapi\\softwarequizapi\\softwarequizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|solutionrelative:softwarequizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\softwarequizapi\\softwarequizapi\\softwarequizapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|solutionrelative:softwarequizapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\softwarequizapi\\softwarequizapi\\softwarequizapi\\migrations\\20240822072855_migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|solutionrelative:softwarequizapi\\migrations\\20240822072855_migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\softwarequizapi\\softwarequizapi\\softwarequizapi\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|solutionrelative:softwarequizapi\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\softwarequizapi\\softwarequizapi\\softwarequizapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|solutionrelative:softwarequizapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Migrations\\20240822072855_Migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SoftwareQuizAPI\\Migrations\\20240822072855_Migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\softwarequizapi\\softwarequizapi\\softwarequizapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|solutionrelative:softwarequizapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\softwarequizapi\\softwarequizapi\\softwarequizapi\\softwarequizapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|solutionrelative:softwarequizapi\\softwarequizapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\softwarequizapi\\softwarequizapi\\softwarequizapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|solutionrelative:softwarequizapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\softwarequizapi\\softwarequizapi\\softwarequizapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|solutionrelative:softwarequizapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\softwarequizapi\\softwarequizapi\\softwarequizapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|solutionrelative:softwarequizapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBD429FB-B384-409F-B4C0-C71E4544477D}|SoftwareQuizAPI\\SoftwareQuizAPI.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\softwarequizapi\\softwarequizapi\\softwarequizapi\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 304,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,46 +66,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "SoftwareQuizAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\appsettings.json",
-              "RelativeToolTip": "SoftwareQuizAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-20T11:31:58.558Z",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "SoftwareQuizAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Dockerfile",
+              "RelativeToolTip": "SoftwareQuizAPI\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-24T18:41:35.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Program.cs",
               "RelativeDocumentMoniker": "SoftwareQuizAPI\\Program.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Program.cs",
               "RelativeToolTip": "SoftwareQuizAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvyIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T12:04:09.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "QuizController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Controllers\\QuizController.cs",
               "RelativeDocumentMoniker": "SoftwareQuizAPI\\Controllers\\QuizController.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Controllers\\QuizController.cs",
               "RelativeToolTip": "SoftwareQuizAPI\\Controllers\\QuizController.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAIwGwAAAAJAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAD0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T11:29:43.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T11:29:43.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "SoftwareQuizAPI\\appsettings.Development.json",
@@ -109,12 +112,35 @@
               "RelativeToolTip": "SoftwareQuizAPI\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-20T22:07:44.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T22:07:44.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "SoftwareQuizAPI\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Models\\Question.cs",
+              "RelativeToolTip": "SoftwareQuizAPI\\Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:24:50.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SoftwareQuizAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\appsettings.json",
+              "RelativeToolTip": "SoftwareQuizAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T11:31:58.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20240822072855_Migration2.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Migrations\\20240822072855_Migration2.cs",
               "RelativeDocumentMoniker": "SoftwareQuizAPI\\Migrations\\20240822072855_Migration2.cs",
@@ -135,12 +161,11 @@
               "RelativeToolTip": "SoftwareQuizAPI\\SoftwareQuizAPI.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-08-22T07:17:32.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T07:17:32.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SoftwareQuizAPI\\Properties\\launchSettings.json",
@@ -148,12 +173,11 @@
               "RelativeToolTip": "SoftwareQuizAPI\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-20T22:07:57.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T22:07:57.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SoftwareQuizAPI\\Data\\AppDbContext.cs",
@@ -161,12 +185,11 @@
               "RelativeToolTip": "SoftwareQuizAPI\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T12:03:02.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T12:03:02.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "apis1.arm.json",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Properties\\ServiceDependencies\\SoftwareQuizAPI20240821123008 - Web Deploy\\apis1.arm.json",
               "RelativeDocumentMoniker": "SoftwareQuizAPI\\Properties\\ServiceDependencies\\SoftwareQuizAPI20240821123008 - Web Deploy\\apis1.arm.json",
@@ -174,25 +197,11 @@
               "RelativeToolTip": "SoftwareQuizAPI\\Properties\\ServiceDependencies\\SoftwareQuizAPI20240821123008 - Web Deploy\\apis1.arm.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-21T10:15:57.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T10:15:57.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Question.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Models\\Question.cs",
-              "RelativeDocumentMoniker": "SoftwareQuizAPI\\Models\\Question.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Models\\Question.cs",
-              "RelativeToolTip": "SoftwareQuizAPI\\Models\\Question.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T11:24:50.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "20240820121757_InitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SoftwareQuizAPI\\SoftwareQuizAPI\\SoftwareQuizAPI\\Migrations\\20240820121757_InitialMigration.cs",
               "RelativeDocumentMoniker": "SoftwareQuizAPI\\Migrations\\20240820121757_InitialMigration.cs",
@@ -200,8 +209,7 @@
               "RelativeToolTip": "SoftwareQuizAPI\\Migrations\\20240820121757_InitialMigration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T12:17:57.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T12:17:57.657Z"
             }
           ]
         }
